@@ -3,7 +3,7 @@ font-weight:bold;
 }
 
 h1 {
-	color: red
+	color: black
 	; 	
 	text-decoration: none;
 }
@@ -13,3 +13,4 @@ h2 {
 }
 div {background-color: grey;
 }
+div class{  }
