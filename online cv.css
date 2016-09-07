@@ -13,4 +13,11 @@ h2 {
 }
 div {background-color: grey;
 }
-div class{  }
+.wrap{
+	width: 200px;
+	margin: auto;
+}
+.content{
+	background: red
+
+}
