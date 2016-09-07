@@ -15,15 +15,25 @@ h2 {
 	color: red; 
 	text-decoration: none;
 }
-div {background-color: black;
+div {
+	background-color: black;
+	border-style:solid;
 }
 .wrap{
-	width: 200px;
-	margin: auto;
+	width: 250px;
+	margin: left;
 	text-align: center;
+	border-style: dashed;
+	border-color: red;
 }
 .content{
-	background: red
-	
-
+	background: red;
+	text-align: left;
+	width:600px;
+	margin: left
+}
+.head{
+	border-style: solid;
+	border-color: red;
+	width:700px;
 }
