@@ -20,7 +20,7 @@ div {
 	border-style:solid;
 }
 .wrap{
-	width: 250px;
+	width: 600px;
 	margin: left;
 	text-align: center;
 	border-style: dashed;
@@ -35,5 +35,5 @@ div {
 .head{
 	border-style: solid;
 	border-color: red;
-	width:700px;
+	width:600px;
 }
