@@ -1,39 +1,40 @@
 body{ background-color: white; 
 font-weight:bold;
 }
-ul{
-	color: red
-	;
+	ul {
+	color: red;
 	text-decoration: none;
 }
-h1 {
-	color: red
-	; 	
+
+	h1 {
+	color: red; 	
 	text-decoration: none;
 }
-h2 {
+	h2 {
 	color: red; 
 	text-decoration: none;
 }
-div {
+	div {
 	background-color: black;
 	border-style:solid;
 }
-.wrap{
-	width: 600px;
+	.wrap{
+	width: 1200px;
 	margin: left;
 	text-align: center;
 	border-style: dashed;
 	border-color: red;
 }
-.content{
+
+	.content{
 	background: red;
 	text-align: left;
-	width:600px;
+	width:1200px;
 	margin: left
 }
-.head{
+
+	.head{
 	border-style: solid;
 	border-color: red;
-	width:600px;
+	width:1200px;
 }
